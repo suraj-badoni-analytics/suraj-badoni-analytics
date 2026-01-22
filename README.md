@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm a Junior Data Analyst 👋 
 
-<!--
-**suraj-badoni-analytics/suraj-badoni-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a motivated Junior Data Analyst with hands-on experience in SQL, Excel, and Power BI.
+I focus on transforming raw data into clear business insights and dashboards.
 
-Here are some ideas to get you started:
+## 🔧 Tools & Skills 
+- SQL (Oracle): JOINs, GROUP BY, subqueries, aggregations
+- Excel: Pivot Tables, dashboards, KPI analysis
+- Power BI: Data modeling, DAX basics, interactive dashboards
+- Data analysis & business insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Portfolio Projects 
+
+### 🔹 Oracle SQL HR Analytics 
+- Employee and department analysis using Oracle HR schema
+- Salary aggregation, filtering, and joins
+👉 [View project](https://github.com/suraj-badoni-analytics/Oracle-HR-SQL-analysis)
+
+### 🔹 Power BI HR Analytics
+- Interactive HR dashboard with salary analysis
+- Above-average salary detection and department slicers
+👉 [View project](https://github.com/suraj-badoni-analytics/PowerBI-HR-Analytics)
+
+### 🔹 Excel Sales Analysis 
+- Sales dashboard with KPIs and monthly trends
+- Built using pivot tables and charts
+👉 [View project](https://github.com/suraj-badoni-analytics/Excel-Sales-Analysis)
+
+--- 
+
+## 🎯 Career Goal 
+Looking for a Junior Data Analyst / BI Analyst position where I can apply my analytical skills
+and grow professionally in data-driven environments.
