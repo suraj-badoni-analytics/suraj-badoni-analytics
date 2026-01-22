@@ -1,6 +1,6 @@
-# Hi, I'm a Junior Data Analyst 👋 
+# Hi, I'm an aspiring Data Analyst 👋 
 
-I am a motivated Junior Data Analyst with hands-on experience in SQL, Excel, and Power BI.
+I am an aspiring Data Analyst with hands-on project experience in SQL, Excel and Power BI.
 I focus on transforming raw data into clear business insights and dashboards.
 
 ## 🔧 Tools & Skills 
